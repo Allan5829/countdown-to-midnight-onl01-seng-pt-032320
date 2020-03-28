@@ -7,7 +7,7 @@ def countdown (number)
   
     def countdown_with_sleep (number)
     
-      while number > 0 
+      5.times do 
         sleep (1)
       end
     
